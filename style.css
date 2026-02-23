@@ -111,7 +111,7 @@ footer {
 }
 aside{
     background-color: #850AE5;
-    color:Blue;
+    color:aqua;
     position:fixed;
     right:0px;
     width:150px;
@@ -121,6 +121,6 @@ aside{
 
 }
 aside:hover::before{
-    content:url("");
+    content:url("image 3.png");
     color:rgb(0, 255, 0);
 }
